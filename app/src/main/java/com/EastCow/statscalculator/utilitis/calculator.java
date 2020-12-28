@@ -1,4 +1,4 @@
-package com.EastCow.statscalculator;
+package com.EastCow.statscalculator.utilitis;
 
 import java.util.Scanner;
 
